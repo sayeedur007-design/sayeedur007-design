@@ -98,8 +98,6 @@ AI-assisted system for analyzing Solidity smart contracts and detecting security
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayeedur007-design&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com/?user=sayeedur007-design&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 GitHub Activity
