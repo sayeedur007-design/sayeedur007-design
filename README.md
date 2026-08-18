@@ -99,8 +99,7 @@ AI-assisted system for analyzing Solidity smart contracts and detecting security
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sayeedur007-design&theme=dark&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=sayeedur007-design&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 GitHub Activity
