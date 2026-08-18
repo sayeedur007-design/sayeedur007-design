@@ -112,6 +112,4 @@ AI-assisted system for analyzing Solidity smart contracts and detecting security
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
-
 </div>
